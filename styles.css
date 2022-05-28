@@ -37,4 +37,8 @@ footer{
     border-color: #2E0249;
 }
 
-
+@media (max-width:600px){
+    body{
+        backgroung-color:black;
+    }
+}
