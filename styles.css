@@ -37,8 +37,13 @@ footer{
     border-color: #2E0249;
 }
 
-@media (max-width:600px){
-    body{
-        backgroung-color:black;
+@media only screen and ( max-width: 600px){
+    .letter{
+        height: 70px;
+        width: 70px;
+        font-size: 1.5rem;
     }
+    
+    
 }
+
